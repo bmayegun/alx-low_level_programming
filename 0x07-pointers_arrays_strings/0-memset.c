@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * *_memset fills the firrst n bytes of memeory area pointed to by s with b
+ * *_memset - fills the firrst n bytes of memeory area pointed to by s with b
  * @s: memory area to be filled
  * @b: char to put in memory
  * @n: number of times to copy
